@@ -1,4 +1,4 @@
 # Power-Plant-Staffing-Model
 
 
-https://cchfvirus.github.io/powerplant-map/
+https://cchfvirus.github.io/Power-Plant-Staffing-Model/
